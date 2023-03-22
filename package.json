@@ -1,7 +1,7 @@
 {
   "name": "theory-examples",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Coverage Status](https://coveralls.io/repos/github/alu0101327679/template/badge.svg?branch=main)](https://coveralls.io/github/alu0101327679/template?branch=main)",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -33,5 +33,9 @@
     "inquirer": "^9.1.5",
     "lowdb": "^5.1.0",
     "prompt-sync": "^4.2.0"
+  },
+  "directories": {
+    "doc": "docs",
+    "test": "test"
   }
 }
